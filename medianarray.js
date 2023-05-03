@@ -34,7 +34,4 @@ class Numbers {
 	}
 
 	// additional check for empty input
-	if (!input.length : any) {
-		return null;
-	}
 }
